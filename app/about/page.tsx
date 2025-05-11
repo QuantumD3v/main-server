@@ -33,7 +33,7 @@ export default function About() {
         <section id="about" className="mb-16">
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="text-lg">
-            I'm a Developer with a passion for Learning Backend.
+            I&apos;m a Developer with a passion for Learning Backend.
             Feel free to explore my work and connect with me!
           </p>
         </section>

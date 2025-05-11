@@ -34,7 +34,7 @@ export default function Home() {
         <section id="home" className="mb-16">
           <h2 className="text-3xl font-bold mb-4">Welcome to My Page</h2>
           <p className="text-lg">
-            Hi, I'm Celestia. This is my personal page where I share my
+            Hi, I&apos;m Celestia. This is my personal page where I share my
             projects, thoughts, and more.
           </p>
         </section>
@@ -51,7 +51,7 @@ export default function Home() {
           rel="noopener noreferrer"
           className="bg-white text-gray-800 px-4 py-2 rounded shadow hover:shadow-lg hover:bg-gray-100 transition flex items-center gap-2"
         >
-          <FaGithub />  My GitHub
+          <FaGithub /> My GitHub
         </a>
         <a
           href="https://twitter.com"
